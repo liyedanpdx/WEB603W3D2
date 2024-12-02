@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "id": "1",
       "title": "Lord of The Rings",
-      "author": "J.R.R. Tolkien"
+      "author": "J.R.R. Tolkien",
+      "id": "1"
     },
     {
       "id": "2",
